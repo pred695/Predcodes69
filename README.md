@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Predcodes69. I am currently CS undergrad, pursuing my btech from IIITDM Jabalpur'26 batch. 
-- 👀 I’m interested in Coding. I am aspiring to become a competitive coder, also kind of interested in ethical hacking.
+- 👀 I’m an aspiring compeitive programmer and an opensource enthusiast.
 - 🌱 I’m currently learning data structures and algorithm as for now
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me at my email : predcodes695@gmail.com
